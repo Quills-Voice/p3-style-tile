@@ -1,6 +1,48 @@
 /* Set Your Own Margin & Padding */
-h2, h3, p {
-	margin: 0;
+
+h1, h2, h3 {
+	margin: auto;
+}
+
+h1 {
+	color: #000;
+	font-family: Felix Titling;
+
+
+}
+h2 {
+	color: #4d4d4d;
+	font-family: Felix Titling;
+}
+
+h3 {
+	color: #870000;
+	font-family: Felix Titling;
+}
+
+article {
+	font-family: century gothic;
+	border-top: solid;
+	padding: 10px;
+}
+
+em {
+	font-family: century gothic;
+}
+
+a:link {
+	color: #4d4d4d;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #870000;
+	text-decoration: none;
 }
 
 /* Layout for Style Tile*/
@@ -20,6 +62,17 @@ section {
 	height: 50px;
 	width: 50px;
 }
+
+.color-1 {
+	background-color: #000;
+}
+
+.color-2 {
+	background-color: #4d4d4d;
+}.color-3 {
+	background-color: #870000;
+}
+
 
 
 /* Show Grid */
