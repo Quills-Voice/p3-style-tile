@@ -2,7 +2,10 @@
 
 h1, h2, h3 {
 	margin: auto;
+	
 }
+
+
 
 h1 {
 	color: #000;
@@ -21,13 +24,14 @@ h3 {
 }
 
 article {
-	font-family: century gothic;
+	font-family: raleway;
 	border-top: solid;
 	padding: 10px;
 }
 
 em {
-	font-family: century gothic;
+	font-family: raleway;
+
 }
 
 a:link {
