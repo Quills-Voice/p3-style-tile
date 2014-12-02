@@ -33,20 +33,23 @@ strong {
 	font-family: raleway;
 
 }
-
-p + a:link {
-	color: #4d4d4d;
+a {
 	text-decoration: none;
 }
 
-a:hover {
-	color: #000;
-	text-decoration: none;
+a:link {
+	color: #4d4d4d;
+	
 }
 
 a:visited {
 	color: #870000;
-	text-decoration: none;
+	
+}
+
+a:hover {
+	color: #000;
+	
 }
 
 /* Layout for Style Tile*/
